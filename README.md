@@ -1,4 +1,4 @@
-# Hisam Mehboob's LaTeX CV
+# LaTeX CV
 
 This repository contains a customized LaTeX CV template based on the original work by [Sourabh Bajaj](https://github.com/sb2nov/resume). It includes personal modifications tailored for a Computer Science student with a focus on systems programming, embedded development, and community involvement.
 
