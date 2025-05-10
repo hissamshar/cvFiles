@@ -17,7 +17,7 @@ This repository contains a customized LaTeX CV template based on the original wo
   - Community Work (e.g., IEEE, MLSA, Book Club)
   - Skills & Participations
 
-## 🔧 How to Use
+## How to Use
 
 1. Clone the repo:
    ```bash
