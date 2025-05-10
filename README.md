@@ -32,7 +32,7 @@ This repository contains a customized LaTeX CV template based on the original wo
 
 > Make sure the `PROFILE.jpeg` is in the same directory when compiling **Format 1**.
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE), following the original repository guidelines.
 
